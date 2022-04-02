@@ -106,6 +106,11 @@ cdk destroy
 ```
 Enter y to approve the changes and delete any stack resources.
 
+![](https://i.imgur.com/S4WOpvE.png)
+
+Destroy was super quick!! 
+
+![](https://i.imgur.com/hGqoN5U.png)
 ## Reference
 
 - https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
