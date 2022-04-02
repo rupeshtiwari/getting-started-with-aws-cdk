@@ -3,7 +3,7 @@
   - [Step 2: Create first AWS CDK project](#step-2-create-first-aws-cdk-project)
 
 # Getting Started with AWS CDK Infrastructure as Code 
-
+ http://www.rupeshtiwari.com/getting-started-with-aws-cdk/ 
 ## Step 1: First time environment setup steps
 1. Open `sudo vim ~/.aws/credentials` and set your access key and security key. 
 2. Install `aws-cdk` globally `npm i -g aws-cdk` check version `cdk --version`
